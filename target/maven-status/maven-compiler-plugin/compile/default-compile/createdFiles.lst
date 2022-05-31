@@ -1,0 +1,10 @@
+mts\mtech\errorhandling\error\Error.class
+mts\mtech\errorhandling\exception\SystemErrorException.class
+mts\mtech\errorhandling\exception\AccessDeniedException.class
+mts\mtech\errorhandling\exceptionhandler\ExceptionHandlerConfiguration.class
+mts\mtech\errorhandling\error\Error$ErrorBuilder.class
+mts\mtech\errorhandling\exceptionhandler\ExceptionHandlerController.class
+mts\mtech\errorhandling\exception\InvalidRequestException.class
+mts\mtech\errorhandling\exception\RecordNotFoundException.class
+mts\mtech\errorhandling\exceptionhandler\EnableExceptionHandler.class
+mts\mtech\errorhandling\modelvalidator\ModelValidator.class
