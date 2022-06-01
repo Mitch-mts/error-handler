@@ -1,2 +1,2 @@
-# error-handler
-common errors exception classes for error handling purposes
+# error-handler library
+Common errors exception classes for error handling purposes
